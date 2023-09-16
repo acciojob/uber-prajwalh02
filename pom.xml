@@ -58,6 +58,7 @@
 			<artifactId>junit-dep</artifactId>
 			<version>4.8.2</version>
 		</dependency>
+
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
